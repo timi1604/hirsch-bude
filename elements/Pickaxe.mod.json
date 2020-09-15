@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "picke",
+    "customModelName": "Normal",
+    "name": "Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Timi1604"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 80,
+    "efficiency": 7.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 15.0,
+    "usageCount": 1100,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

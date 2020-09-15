@@ -1,0 +1,38 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "unnamed",
+    "customModelName": "Normal",
+    "name": "Waffe",
+    "specialInfo": [
+      "AK-47"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Timi1604"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Button"
+    },
+    "shootConstantly": false,
+    "usageCount": 500,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 10.0,
+    "bulletDamage": 25.0,
+    "bulletKnockback": 10,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Button"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

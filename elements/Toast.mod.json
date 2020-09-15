@@ -1,0 +1,22 @@
+{
+  "_fv": 10,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "toast",
+    "customModelName": "Normal",
+    "name": "Toast",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Timi1604"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 4,
+    "saturation": 30.0,
+    "eatingSpeed": 70,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

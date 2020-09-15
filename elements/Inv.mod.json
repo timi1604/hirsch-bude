@@ -1,0 +1,27 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Diamand",
+          "onClick": {
+            "name": "Gui"
+          },
+          "width": 100,
+          "height": 40,
+          "name": "Diamand",
+          "x": 383,
+          "y": 140
+        }
+      }
+    ]
+  }
+}
