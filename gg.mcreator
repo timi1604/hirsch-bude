@@ -17,24 +17,40 @@
       "name": "KeksFoodEaten",
       "type": "procedure",
       "sortid": 16,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "keks_food_eaten",
       "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
+        "dependencies": []
       }
+    },
+    {
+      "name": "D",
+      "type": "tab",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d"
+    },
+    {
+      "name": "Dought",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dought"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.gg.dought": "Dought",
+      "itemGroup.tabd": "Toast u. Tim"
+    }
   },
   "workspaceSettings": {
     "modid": "gg",
