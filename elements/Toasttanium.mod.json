@@ -1,0 +1,24 @@
+{
+  "_fv": 10,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "bread",
+    "customModelName": "Normal",
+    "name": "Toast Tanium",
+    "specialInfo": [
+      "Harder then steel"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:D"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 4,
+    "saturation": 9.0,
+    "eatingSpeed": 64,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

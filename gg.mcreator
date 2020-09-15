@@ -42,6 +42,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dought"
+    },
+    {
+      "name": "Toasttanium",
+      "type": "food",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toasttanium"
     }
   ],
   "variable_elements": [],
@@ -49,7 +58,8 @@
   "language_map": {
     "en_us": {
       "item.gg.dought": "Dought",
-      "itemGroup.tabd": "Toast u. Tim"
+      "itemGroup.tabd": "Toast u. Tim",
+      "item.gg.toasttanium": "Toast Tanium"
     }
   },
   "workspaceSettings": {
