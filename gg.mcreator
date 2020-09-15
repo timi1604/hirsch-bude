@@ -14,165 +14,10 @@
       }
     },
     {
-      "name": "Button",
-      "type": "item",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "button"
-    },
-    {
-      "name": "Timi1604",
-      "type": "tab",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "timi_1604"
-    },
-    {
-      "name": "Sup",
-      "type": "fuel",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sup"
-    },
-    {
-      "name": "Toast",
-      "type": "food",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "toast"
-    },
-    {
-      "name": "WAffe",
-      "type": "gun",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "w_affe"
-    },
-    {
-      "name": "Pickaxe",
-      "type": "tool",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pickaxe"
-    },
-    {
-      "name": "Inv",
-      "type": "gui",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "inv"
-    },
-    {
-      "name": "TT",
-      "type": "block",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "tt"
-    },
-    {
-      "name": "Fluid",
-      "type": "fluid",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "fluid"
-    },
-    {
-      "name": "REdstone",
-      "type": "item",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "r_edstone"
-    },
-    {
-      "name": "Gui",
-      "type": "procedure",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gui",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Pat",
-      "type": "recipe",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pat"
-    },
-    {
-      "name": "Titanium",
-      "type": "block",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "titanium"
-    },
-    {
-      "name": "Gg",
-      "type": "item",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gg"
-    },
-    {
-      "name": "Gun",
-      "type": "recipe",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gun"
-    },
-    {
       "name": "KeksFoodEaten",
       "type": "procedure",
       "sortid": 16,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "keks_food_eaten",
@@ -184,34 +29,12 @@
           }
         ]
       }
-    },
-    {
-      "name": "Keks",
-      "type": "food",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "keks"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "item.gg.button": "Patronen Waffe",
-      "item.gg.keks": "Keks",
-      "item.gg.w_affe": "Waffe",
-      "item.gg.gg": "Titanium Ingot",
-      "item.gg.r_edstone": "Redstone",
-      "item.gg.toast": "Toast",
-      "itemGroup.tabtimi_1604": "Timi 1 6 0 4",
-      "block.gg.tt": "TTT block",
-      "item.gg.fluid_bucket": "Fluid Bucket",
-      "block.gg.titanium": "Titanium",
-      "item.gg.pickaxe": "Pickaxe",
-      "fluid.fluid": "Fluid"
-    }
+    "en_us": {}
   },
   "workspaceSettings": {
     "modid": "gg",
